@@ -29,7 +29,7 @@ This config follows the [Miryoku](https://github.com/manna-harbour/miryoku) layo
 ### Thumb Keys
 
 ```
-Left hand                          Right hand
+Left hand                           Right hand
 ┌───────────┬───────────┬────────┐ ┌─────────┬──────────┬─────────┐
 │ MEDIA/ESC │  NAV/SPC  │MOUSE/TAB│ │ SYM/ENT │ NUM/BSPC │ FUN/DEL │
 └───────────┴───────────┴────────┘ └─────────┴──────────┴─────────┘
