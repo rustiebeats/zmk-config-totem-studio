@@ -74,7 +74,7 @@ Left hand                          Right hand
 | L + ' | right outer | `;` (semicolon) | Horizontal |
 
 All combos use `require-prior-idle-ms` to prevent misfires during fast typing.
-
+ 
 ### Home Row Mods
 
 ```
