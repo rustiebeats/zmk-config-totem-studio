@@ -10,7 +10,7 @@
 
 ![Keymap](keymap-drawer/totem.svg)
 
-*Auto-generated with [keymap-drawer](https://github.com/caksoylar/keymap-drawer) on every push.*
+* Auto-generated with [keymap-drawer](https://github.com/caksoylar/keymap-drawer) on every push.*
 
 ---
 
